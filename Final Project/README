@@ -1,0 +1,26 @@
+CSE 150 - Final Project Presentation
+
+# Student Info:
+		Name: 			Luis Valdivia
+		Email: 			levaldiv@ucsc.edu
+		CruzID: 		Levaldiv
+		Student ID: 		1462385
+
+
+
+# Submission Data:
+		This submission contains the following:
+			LuisValdivia-FinalPresentation.pdf  --- Contains a description of my final project detailing which commands I used with 
+								explanation
+			final.py --- Contains the modified topology that allow our final_controller to connect with each other. In this file
+				     I defined 5 hosts and 5 switches. 
+			final_controller.py ----- Contains POX controller I created with explanations. This file is the controller that controls
+						  all traffic. We were given a set of rules that we had to implement and made sure it worked.
+			README ------------------- Contains the description of each file and identification
+
+##### RESOURCES USED #####
+https://en.wikipedia.org/wiki/EtherType
+http://intronetworks.cs.luc.edu/auxiliary_files/mininet/poxwiki.pdf
+http://csie.nqu.edu.tw/smallko/sdn/iperf_mininet.htm
+http://sdnhub.org/tutorials/pox/
+https://openflow.stanford.edu/display/ONL/POX+Wiki.html#POXWiki-MatchStructure
